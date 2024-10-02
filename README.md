@@ -1,4 +1,3 @@
-# Redux Form API
 # Backend App
 
 ## Requirements
